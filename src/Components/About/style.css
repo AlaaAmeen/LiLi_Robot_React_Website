@@ -1,0 +1,28 @@
+.AboutHeading{
+    width: 90%; 
+    padding: 10px;
+    text-align: center;
+    background-color: #80c7d4;
+    box-shadow: 0px 2px 10px #1e1d1d;
+    color: white;
+    border-radius: 5px;
+    margin: 10px auto;
+}
+
+#AboutContainer > div {
+    width: 80%;
+    margin: 20px auto;
+}
+
+span {
+    margin-left: 10px;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+video{
+    border-radius: 10px;
+    box-shadow: 0px 2px 10px #888888ff;
+    margin-top: 30px;
+    margin-left: 20%;
+}

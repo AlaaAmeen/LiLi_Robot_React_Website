@@ -1,0 +1,28 @@
+.homeCover {
+    width: 100%;
+}
+
+.objective {
+    margin-top: 100px;
+    margin-left: 25px;
+}
+
+@media only screen and (min-width: 911px) and (max-width: 1150px){
+    .objective {
+        margin-top: 50px;
+    }
+}
+
+@media only screen and (min-width: 322px) and (max-width: 910px){
+    .objective {
+        margin-top: 20px;
+        font-size: 14px;
+    }
+}
+
+@media only screen and (max-width: 321px){
+    .objective {
+        margin-top: 100px;
+        margin-left: 10px;
+    }
+}

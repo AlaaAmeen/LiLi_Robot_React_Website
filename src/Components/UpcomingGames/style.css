@@ -1,0 +1,8 @@
+.UpcomingGamesHeading {
+    margin-top: 60px;
+}
+
+#UpcomingGamesContainer > div{
+    width: 80%;
+    margin: 20px auto;
+}
