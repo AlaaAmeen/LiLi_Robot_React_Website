@@ -13,7 +13,7 @@ function Feedback() {
                 <button id="send" className="btn btn-primary" onsubmit="alert('Thank you for sharing your feedback with me!')" type="submit">Send</button>
             </form>
 
-            <footer>&copy; Alaa Amin 2021</footer>
+            <footer>&copy; Alaa Amin 2022</footer>
         </div>
     )
 }
